@@ -1,0 +1,14 @@
+/* index.css */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Global link styles */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
